@@ -1,0 +1,674 @@
+[
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ethcolor.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\ethcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_key.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\key.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_container_fish.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\container_fish.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_glass.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\glass.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pin2.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_pin2.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_exchange.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\exchange.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mkr.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\mkr.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bat.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\bat.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reward.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_reward.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_feed.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\feed.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chart.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\chart.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_message.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_usdccolor.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\usdccolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notify.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\notify.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btccolor.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\btccolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_selected.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\button_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_round.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-mdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo_round.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xxhdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable-xhdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo_round.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_round.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-hdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_r.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\arrow_r.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_omgcolor.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\omgcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_glass2.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\glass2.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ethl.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\ethl.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bch_send.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_bch_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_data.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\list_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_logo.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-anydpi-v26\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_up.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bch.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\bch.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xrp.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\xrp.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bch_transaction.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_bch_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_qr.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\qr.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email2.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\email2.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_name.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_name2.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\name2.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_etc.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\etc.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_glass_receive.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\glass_receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_secutiry_config.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\xml\\network_secutiry_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tusd.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\tusd.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_erc_send.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_erc_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable-mdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_glass_bottom.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\glass_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btc.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\btc.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-hdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bnb.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\bnb.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_blockchain.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_blockchain.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forgot.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_forgot.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_send.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\button_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_usdc.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\usdc.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_feedback.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\feedback.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_down.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bchcolor.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\bchcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_square.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\square.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_status.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_etc_transaction.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_etc_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tusdcolor.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\tusdcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shape.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable-v24\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_batcolor.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\batcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_etccolor.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\etccolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_exit.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notify2.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\notify2.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_account.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_down.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\arrow_down.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_round.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xhdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_ticker.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_update_ticker.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_verify_seed.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_verify_seed.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pk.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\pk.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_card.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\card.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_cutom_layout.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\spinner_cutom_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_asset.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_asset.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eth.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\eth.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_glass_send.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\glass_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable-xxhdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_seed.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\seed.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_eth_transaction.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_eth_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pax.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\pax.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flyer.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\flyer.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape2.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\shape2.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pin_verify.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_pin_verify.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_container_history.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\container_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_bottom.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\navigation_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xhdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_sponser.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\sponser.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_up.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\arrow_up.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_erc_transaction.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_erc_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bnbcolor.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\bnbcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reward.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\reward.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_seed.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_seed.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_update.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_exchange.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_exchange.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable-mdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_account_edit.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_account_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_register_button.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\login_register_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_trade.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_trade.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_right.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_warn.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\warn.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_btc_send.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_btc_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_switch_thumb_selector.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\switch_thumb_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_otp.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_b.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\arrow_b.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coinmex.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\coinmex.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_eth_send.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_eth_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login_register.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\login_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_editext.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\editext.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qrcode.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_qrcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_btc_transaction.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_btc_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logo_foreground.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-mdpi\\logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mkrcolor.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\mkrcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_omg.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\omg.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pin1.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_pin1.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_etc_send.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_etc_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_glass3.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\glass3.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb2.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\thumb2.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit2.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\edit2.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paxcolor.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\paxcolor.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_logo_round.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\mipmap-xxxhdpi\\logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_key2.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\key2.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_stat_name.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable-hdpi\\ic_stat_name.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_arrow_left.png.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\drawable\\arrow_left.png"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_account.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_passphrase1.xml.flat",
+        "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\layout\\activity_passphrase1.xml"
+    }
+]

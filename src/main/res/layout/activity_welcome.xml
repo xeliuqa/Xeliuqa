@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Welcome"
+    android:background="@color/background">
+    <!-- Top  -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="25dp"
+        android:orientation="vertical">
+        <!-- register now -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="323dp"
+                android:layout_height="278dp"
+                android:padding="50dp"
+                android:src="@drawable/logo" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <!--Buttons-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="350dp"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="90dp"
+            android:layout_marginRight="90dp"
+            android:layout_marginTop="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+                <!-- Bitcoin address field -->
+                <Button
+                    android:id="@+id/singup"
+                    android:layout_width="328dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1.0"
+                    android:background="@drawable/button_selected"
+                    android:paddingLeft="10dp"
+                    android:text="Create Wallet"
+                    android:textColor="#ffffff" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Or"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:textColor="#0686d1"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="90dp"
+            android:layout_marginRight="90dp"
+            android:layout_marginTop="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+                <!--bitcoin amount field  -->
+                <Button
+                    android:layout_width="0dp"
+                    android:id="@+id/singin"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1.0"
+                    android:text="Recover Wallet"
+                    android:paddingLeft="10dp"
+                    android:textColor="#ffffff"
+                    android:background="@drawable/button_selected" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

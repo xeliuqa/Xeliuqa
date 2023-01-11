@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Forgot"
+    android:paddingTop="50dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:gravity="center"
+        android:orientation="vertical">
+        <!-- sign in now -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp">
+            <ImageView
+                android:id="@+id/back"
+                android:layout_width="100dp"
+                android:layout_height="45dp"
+                android:paddingLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:src="@drawable/arrow_left" />
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="100dp"
+                android:padding="0dp"
+                android:src="@drawable/logo" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="200dp"
+                android:fontFamily="sans-serif"
+                android:gravity="center"
+                android:padding="10dp"
+                android:textColor="#FFFFFF"
+                android:text="Xeliuqa Wallet"
+                android:textSize="20sp" />
+
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center">
+        </LinearLayout>
+
+    </LinearLayout>
+    //Refresh here
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginTop="100dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Verify recovery phrase"
+            android:textColor="#0686d1"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/word"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="Please verify the 12 words by typing in the space provided below to proceed with your wallet creation"
+            android:textColor="#FFFFFF" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/code"
+            android:background="@drawable/editext"
+            android:textColor="#FFFFFF"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="20dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="25dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="45dp"
+                android:layout_marginRight="45dp"
+                android:layout_marginTop="15dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+                    <!-- Bitcoin address field -->
+                    <Button
+                        android:layout_width="0dp"
+                        android:id="@+id/submit"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1.0"
+                        android:text="Submit"
+                        android:textSize="13dp"
+                        android:paddingLeft="10dp"
+                        android:textColor="#ffffff"
+                        android:background="@drawable/button_selected" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
