@@ -231,7 +231,7 @@
                                     android:id="@+id/hel"
                                     android:layout_height="wrap_content"
                                     android:paddingLeft="10dp"
-                                    android:text="info@xeliuqa.app"
+                                    android:text="info@xeliuqa.com"
                                     android:layout_marginLeft="15dp"
                                     android:textColor="#FFFFFF"
                                     android:textSize="17dp" />

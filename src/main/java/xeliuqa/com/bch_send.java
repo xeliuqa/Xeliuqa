@@ -237,7 +237,7 @@ public class bch_send extends AppCompatActivity {
                         if (otp_status.equals("1")){
                             //Start Here
                             //Add the OTP here
-                            email("info@xeliuqa.app");
+                            email("info@xeliuqa.com");
                             // get prompts.xml view
                             LayoutInflater li = LayoutInflater.from(bch_send.this);
                             View promptsView = li.inflate(R.layout.activity_otp, null);

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <network-security-config>
     <domain-config cleartextTrafficPermitted="true">
-        <domain includeSubdomains="true">51.195.201.9</domain>
         <domain includeSubdomains="true">xeliuqa.app</domain><!-- xeliuqa -->
         <domain includeSubdomains="true">ifastbit.com</domain>
         <domain includeSubdomains="true">139.59.15.35</domain> <!-- XeniumX -->

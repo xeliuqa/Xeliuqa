@@ -13,8 +13,6 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import xeliuqa.com.Adapter.SponsorData;
-
 public class Assets extends AppCompatActivity {
 
     private String keysETH;

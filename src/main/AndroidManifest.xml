@@ -1,195 +1,173 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="xeliuqa.com">
+    android:versionCode="8"
+    android:versionName="1.8"
+    android:compileSdkVersion="30"
+    android:compileSdkVersionCodename="11"
+    package="xeliuqa.com" >
 
-    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-sdk android:minSdkVersion="22" android:targetSdkVersion="33"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-feature android:name="android.hardware.camera" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.front" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false"/>
+    <uses-feature android:name="android.hardware.camera.flash" android:required="false"/>
+    <uses-feature android:name="android.hardware.screen.landscape" android:required="false"/>
+    <uses-feature android:name="android.hardware.wifi" android:required="false"/>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 
     <application
         android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
-        android:label="Xeliuqa"
+        android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:usesCleartextTraffic="true"
-        android:networkSecurityConfig="@xml/network_secutiry_config"
-        android:theme="@style/AppThemeNoActionBar">
+        android:theme="@style/Theme.Xeliuqa">
 
         <activity
             android:name=".Update_Ticker"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Trade"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".DetailView"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".update"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".History"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Status"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Exchange"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Assets"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Settings"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Account_Edit"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Reward"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".bch_send"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".PIN_Verify"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".PIN_Create2"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".PIN_Create1"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Transaction_BCH"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Account"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".erc_send"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".eth_send"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".blockchain"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".btc_send"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".qrcode"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Transaction_ERC"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Transaction_BTC"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Transaction_ETH"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Forgot"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Verify_Seed"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Word_Seed"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Message"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Signin"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Signup"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name=".Welcome"
             android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
-        <activity
-            android:name=".Sponsor"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:theme="@style/AppThemeNoActionBar"
-            android:screenOrientation="portrait"/>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
 
-        <activity
-            android:name=".SplashActivity"
+        <activity android:name=".SplashActivity"
             android:screenOrientation="portrait"
-            android:theme="@style/AppThemeNoActionBar">
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

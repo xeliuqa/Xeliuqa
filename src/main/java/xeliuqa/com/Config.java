@@ -3,7 +3,7 @@ package xeliuqa.com;
 public class Config {
 
     public static String url() {
-        String urls="xeliuqa.app"; //Enter your server ip
+        String urls="xeliuqa.com"; //Enter your server ip
         return urls;
     }
     public static String key() {
@@ -27,11 +27,11 @@ public class Config {
         return api;
     }
     public static String privacy() {
-        String pr="https://xeliuqa.app/privacy.html"; //Enter terms and condition
+        String pr="https://xeliuqa.com/privacy.html"; //Enter terms and condition
         return pr;
     }
     public static String terms() {
-        String ter="https://xeliuqa.app/privacy.html"; //Enter link privacy
+        String ter="https://xeliuqa.com/privacy.html"; //Enter link privacy
         return ter;
     }
 }

@@ -4,7 +4,7 @@ import android.graphics.Color;
 import android.os.AsyncTask;
 
 import androidx.recyclerview.widget.RecyclerView;
-import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
+
 import org.json.JSONException;
 import org.json.JSONObject;
 
@@ -68,7 +68,7 @@ public class SponsorData extends AsyncTask<Void, RecyclerView.ViewHolder,Void> {
     @Override
     protected Void doInBackground(Void... voids) {
         try {
-            URL url = new URL ("https://xeliuqa.app/js/sponser.json");
+            URL url = new URL ("https://xeliuqa.com/js/sponser.json");
             HttpURLConnection httpURLConnection = (HttpURLConnection) url.openConnection();
             InputStream inputStream = httpURLConnection.getInputStream();
             BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(inputStream));

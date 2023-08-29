@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-he\\values-he.xml",
+            "outputFile": "xeliuqa.com.app-mergeDebugResources-19:/values-he/values-he.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MinerOnDemand\\.gradle\\caches\\transforms-2\\files-2.1\\7302375f1beb9e059e16807750edb9d9\\jetified-zxing-android-embedded-3.6.0\\res\\values-he\\values-he.xml",
+                    "source": "C:\\Users\\MinerOnDemand\\.gradle\\caches\\transforms-3\\fd653529fee3ad987427345c994f5f72\\transformed\\jetified-zxing-android-embedded-3.6.0\\res\\values-he\\values-he.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

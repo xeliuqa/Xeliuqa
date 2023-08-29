@@ -1,20 +1,9 @@
 package xeliuqa.com.Adapter;
 
-import android.app.Activity;
-import android.graphics.Color;
-import android.view.LayoutInflater;
-import android.view.View;
 import android.view.ViewGroup;
-import android.widget.LinearLayout;
 
 import androidx.annotation.NonNull;
-import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-
-import java.util.List;
-
-import xeliuqa.com.Model;
-import xeliuqa.com.R;
 
 public class CoinAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
     @NonNull
