@@ -1,7 +1,0 @@
-{
-  "from": "0x1a38A694278C0a0ac1F401A4B7f77b486a201414",
-  "contract": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
-  "decimals": 6,
-  "privateKey": "b60d99845bdc66d241765eea74ef3e6337d3e6f4b8f542866de873fe09b27328",
-  "provider": "https://mainnet.infura.io/v3/fecebfef72ee4e31a909a2b2764a93e6"
-}
