@@ -189,7 +189,7 @@ public class Transaction_ETH extends AppCompatActivity {
         MySingleton.getInstance(this).addToRequestQueue(jsArrayRequest);
     }
 
-    //This the trasaction area
+    //This the transaction area
     private class AsyncFetch extends AsyncTask<String, String, String> {
         ProgressDialog pdLoading = new ProgressDialog(Transaction_ETH.this);
         HttpURLConnection conn;

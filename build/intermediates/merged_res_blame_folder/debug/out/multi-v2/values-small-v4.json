@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "xeliuqa.com.app-mergeDebugResources-19:/values-small-v4/values-small-v4.xml",
+            "outputFile": "xeliuqa.com.app-mergeDebugResources-30:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MinerOnDemand\\.gradle\\caches\\transforms-3\\fc52c7cef6228188890288cdbe418e3e\\transformed\\material-1.2.1\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\MinerOnDemand\\.gradle\\caches\\transforms-3\\f74642be8bf65ac97ac1c6fafb4bca13\\transformed\\material-1.9.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

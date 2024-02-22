@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <network-security-config>
     <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">198.244.151.10</domain>
         <domain includeSubdomains="true">xeliuqa.app</domain><!-- xeliuqa -->
         <domain includeSubdomains="true">ifastbit.com</domain>
         <domain includeSubdomains="true">139.59.15.35</domain> <!-- XeniumX -->
@@ -12,6 +13,7 @@
         <domain includeSubdomains="true">blockchain.info</domain>
         <domain includeSubdomains="true">coinmex.pro</domain>
         <domain includeSubdomains="true">api.coingecko.com</domain>
-        <domain includeSubdomains="true">https://api.ethplorer.io/</domain>
+        <domain includeSubdomains="true">api.ethplorer.io/</domain>
+        <domain includeSubdomains="true">api.coinpaprika.com/</domain>
     </domain-config>
 </network-security-config>

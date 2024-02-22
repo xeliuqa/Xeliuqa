@@ -1,399 +1,434 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="xeliuqa.com"
-4    android:compileSdkVersion="30"
-5    android:compileSdkVersionCodename="11"
-6    android:versionCode="1"
-7    android:versionName="1.1" >
-8
-9    <uses-sdk
-9-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:9:5-73
-10        android:minSdkVersion="21"
-10-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:9:15-41
-11        android:targetSdkVersion="34" />
-11-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:9:42-71
-12
-13    <uses-permission android:name="android.permission.INTERNET" />
-13-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:10:5-66
-13-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:10:22-64
-14    <uses-permission android:name="android.permission.CAMERA" />
-14-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:11:5-64
-14-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:11:22-62
-15
-16    <uses-feature
-16-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:12:5-84
-17        android:name="android.hardware.camera"
-17-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:12:19-57
-18        android:required="false" />
-18-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:12:58-82
-19    <uses-feature
-19-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:13:5-90
-20        android:name="android.hardware.camera.front"
-20-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:13:19-63
-21        android:required="false" />
-21-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:13:64-88
-22    <uses-feature
-22-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:14:5-94
-23        android:name="android.hardware.camera.autofocus"
-23-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:14:19-67
-24        android:required="false" />
-24-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:14:68-92
-25    <uses-feature
-25-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:15:5-90
-26        android:name="android.hardware.camera.flash"
-26-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:15:19-63
-27        android:required="false" />
-27-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:15:64-88
-28    <uses-feature
-28-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:16:5-94
-29        android:name="android.hardware.screen.landscape"
-29-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:16:19-67
-30        android:required="false" />
-30-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:16:68-92
-31    <uses-feature
-31-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:17:5-82
-32        android:name="android.hardware.wifi"
-32-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:17:19-55
-33        android:required="false" />
-33-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:17:56-80
-34
-35    <uses-permission android:name="android.permission.INTERNET" />
-35-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:10:5-66
-35-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:10:22-64
-36    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-36-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:19:5-81
-36-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:19:22-78
-37    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-37-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:20:5-80
-37-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:20:22-77
-38    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-38-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:21:5-79
-38-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:21:22-76
-39    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-39-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:22:5-76
-39-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:22:22-73
-40
-41    <application
-41-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:24:5-176:19
-42        android:allowBackup="true"
-42-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:25:9-35
-43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-43-->[androidx.core:core:1.3.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\64c3acb97238c6723973ee08409889a7\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
-44        android:dataExtractionRules="@xml/data_extraction_rules"
-44-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:26:9-65
-45        android:debuggable="true"
-46        android:fullBackupContent="@xml/backup_rules"
-46-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:27:9-54
-47        android:icon="@mipmap/ic_launcher"
-47-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:28:9-43
-48        android:label="@string/app_name"
-48-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:29:9-41
-49        android:roundIcon="@mipmap/ic_launcher_round"
-49-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:30:9-54
-50        android:supportsRtl="true"
-50-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:31:9-35
-51        android:testOnly="true"
-52        android:theme="@style/Theme.Xeliuqa" >
-52-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:32:9-45
-53        <activity
-53-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:34:9-37:72
-54            android:name="xeliuqa.com.Update_Ticker"
-54-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:35:13-42
-55            android:configChanges="orientation|keyboardHidden|screenSize"
-55-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:36:13-74
-56            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-56-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:37:13-69
-57        <activity
-57-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:38:9-41:72
-58            android:name="xeliuqa.com.Trade"
-58-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:39:13-34
-59            android:configChanges="orientation|keyboardHidden|screenSize"
-59-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:40:13-74
-60            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-60-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:41:13-69
+4    android:versionCode="10"
+5    android:versionName="1.10" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:7:5-66
+11-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:8:5-64
+12-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:8:22-62
+13
+14    <uses-feature
+14-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:9:5-84
+15        android:name="android.hardware.camera"
+15-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:9:19-57
+16        android:required="false" />
+16-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:9:58-82
+17    <uses-feature
+17-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:10:5-90
+18        android:name="android.hardware.camera.front"
+18-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:10:19-63
+19        android:required="false" />
+19-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:10:64-88
+20    <uses-feature
+20-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:11:5-94
+21        android:name="android.hardware.camera.autofocus"
+21-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:11:19-67
+22        android:required="false" />
+22-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:11:68-92
+23    <uses-feature
+23-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:12:5-90
+24        android:name="android.hardware.camera.flash"
+24-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:12:19-63
+25        android:required="false" />
+25-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:12:64-88
+26    <uses-feature
+26-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:13:5-94
+27        android:name="android.hardware.screen.landscape"
+27-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:13:19-67
+28        android:required="false" />
+28-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:13:68-92
+29    <uses-feature
+29-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:14:5-82
+30        android:name="android.hardware.wifi"
+30-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:14:19-55
+31        android:required="false" />
+31-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:14:56-80
+32
+33    <uses-permission android:name="android.permission.INTERNET" />
+33-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:7:5-66
+33-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:7:22-64
+34    <uses-permission
+34-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:17:5-18:38
+35        android:name="android.permission.READ_EXTERNAL_STORAGE"
+35-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:17:22-77
+36        android:maxSdkVersion="32" />
+36-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:18:9-35
+37    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+37-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:19:5-79
+37-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:19:22-76
+38    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+38-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:20:5-76
+38-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:20:22-73
+39
+40    <permission
+40-->[androidx.core:core:1.9.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\9811bf6e0ea8002748e1a5d1e9eb40bd\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+41        android:name="xeliuqa.com.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+41-->[androidx.core:core:1.9.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\9811bf6e0ea8002748e1a5d1e9eb40bd\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+42        android:protectionLevel="signature" />
+42-->[androidx.core:core:1.9.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\9811bf6e0ea8002748e1a5d1e9eb40bd\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+43
+44    <uses-permission android:name="xeliuqa.com.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+44-->[androidx.core:core:1.9.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\9811bf6e0ea8002748e1a5d1e9eb40bd\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+44-->[androidx.core:core:1.9.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\9811bf6e0ea8002748e1a5d1e9eb40bd\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+45
+46    <application
+46-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:22:5-176:19
+47        android:allowBackup="true"
+47-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:23:9-35
+48        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+48-->[androidx.core:core:1.9.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\9811bf6e0ea8002748e1a5d1e9eb40bd\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+49        android:dataExtractionRules="@xml/data_extraction_rules"
+49-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:24:9-65
+50        android:debuggable="true"
+51        android:extractNativeLibs="false"
+52        android:fullBackupContent="@xml/backup_rules"
+52-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:25:9-54
+53        android:icon="@mipmap/ic_launcher"
+53-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:26:9-43
+54        android:label="@string/app_name"
+54-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:27:9-41
+55        android:networkSecurityConfig="@xml/network_secutiry_config"
+55-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:31:9-69
+56        android:roundIcon="@mipmap/ic_launcher_round"
+56-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:28:9-54
+57        android:supportsRtl="true"
+57-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:29:9-35
+58        android:testOnly="true"
+59        android:theme="@style/AppThemeNoActionBar"
+59-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:32:9-51
+60        android:usesCleartextTraffic="true" >
+60-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:30:9-44
 61        <activity
-61-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:42:9-45:72
-62            android:name="xeliuqa.com.DetailView"
-62-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:43:13-39
+61-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:34:9-37:72
+62            android:name="xeliuqa.com.Update_Ticker"
+62-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:35:13-42
 63            android:configChanges="orientation|keyboardHidden|screenSize"
-63-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:44:13-74
+63-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:36:13-74
 64            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-64-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:45:13-69
+64-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:37:13-69
 65        <activity
-65-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:46:9-49:72
-66            android:name="xeliuqa.com.update"
-66-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:47:13-35
+65-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:38:9-41:72
+66            android:name="xeliuqa.com.Trade"
+66-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:39:13-34
 67            android:configChanges="orientation|keyboardHidden|screenSize"
-67-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:48:13-74
+67-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:40:13-74
 68            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-68-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:49:13-69
+68-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:41:13-69
 69        <activity
-69-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:50:9-53:72
-70            android:name="xeliuqa.com.History"
-70-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:51:13-36
+69-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:42:9-45:72
+70            android:name="xeliuqa.com.DetailView"
+70-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:43:13-39
 71            android:configChanges="orientation|keyboardHidden|screenSize"
-71-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:52:13-74
+71-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:44:13-74
 72            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-72-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:53:13-69
+72-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:45:13-69
 73        <activity
-73-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:54:9-57:72
-74            android:name="xeliuqa.com.Status"
-74-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:55:13-35
+73-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:46:9-49:72
+74            android:name="xeliuqa.com.update"
+74-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:47:13-35
 75            android:configChanges="orientation|keyboardHidden|screenSize"
-75-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:56:13-74
+75-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:48:13-74
 76            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-76-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:57:13-69
+76-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:49:13-69
 77        <activity
-77-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:58:9-61:72
-78            android:name="xeliuqa.com.Exchange"
-78-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:59:13-37
+77-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:50:9-53:72
+78            android:name="xeliuqa.com.History"
+78-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:51:13-36
 79            android:configChanges="orientation|keyboardHidden|screenSize"
-79-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:60:13-74
+79-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:52:13-74
 80            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-80-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:61:13-69
+80-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:53:13-69
 81        <activity
-81-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:62:9-65:72
-82            android:name="xeliuqa.com.Assets"
-82-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:63:13-35
+81-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:54:9-57:72
+82            android:name="xeliuqa.com.Status"
+82-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:55:13-35
 83            android:configChanges="orientation|keyboardHidden|screenSize"
-83-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:64:13-74
+83-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:56:13-74
 84            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-84-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:65:13-69
+84-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:57:13-69
 85        <activity
-85-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:66:9-69:72
-86            android:name="xeliuqa.com.Settings"
-86-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:67:13-37
+85-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:58:9-61:72
+86            android:name="xeliuqa.com.Exchange"
+86-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:59:13-37
 87            android:configChanges="orientation|keyboardHidden|screenSize"
-87-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:68:13-74
+87-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:60:13-74
 88            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-88-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:69:13-69
+88-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:61:13-69
 89        <activity
-89-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:70:9-73:72
-90            android:name="xeliuqa.com.Account_Edit"
-90-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:71:13-41
+89-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:62:9-65:72
+90            android:name="xeliuqa.com.Assets"
+90-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:63:13-35
 91            android:configChanges="orientation|keyboardHidden|screenSize"
-91-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:72:13-74
+91-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:64:13-74
 92            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-92-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:73:13-69
+92-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:65:13-69
 93        <activity
-93-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:74:9-77:72
-94            android:name="xeliuqa.com.Reward"
-94-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:75:13-35
+93-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:66:9-69:72
+94            android:name="xeliuqa.com.Settings"
+94-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:67:13-37
 95            android:configChanges="orientation|keyboardHidden|screenSize"
-95-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:76:13-74
+95-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:68:13-74
 96            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-96-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:77:13-69
+96-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:69:13-69
 97        <activity
-97-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:78:9-81:72
-98            android:name="xeliuqa.com.bch_send"
-98-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:79:13-37
+97-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:70:9-73:72
+98            android:name="xeliuqa.com.Account_Edit"
+98-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:71:13-41
 99            android:configChanges="orientation|keyboardHidden|screenSize"
-99-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:80:13-74
+99-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:72:13-74
 100            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-100-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:81:13-69
+100-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:73:13-69
 101        <activity
-101-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:82:9-85:72
-102            android:name="xeliuqa.com.PIN_Verify"
-102-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:83:13-39
+101-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:74:9-77:72
+102            android:name="xeliuqa.com.Reward"
+102-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:75:13-35
 103            android:configChanges="orientation|keyboardHidden|screenSize"
-103-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:84:13-74
+103-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:76:13-74
 104            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-104-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:85:13-69
+104-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:77:13-69
 105        <activity
-105-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:86:9-89:72
-106            android:name="xeliuqa.com.PIN_Create2"
-106-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:87:13-40
+105-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:78:9-81:72
+106            android:name="xeliuqa.com.bch_send"
+106-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:79:13-37
 107            android:configChanges="orientation|keyboardHidden|screenSize"
-107-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:88:13-74
+107-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:80:13-74
 108            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-108-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:89:13-69
+108-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:81:13-69
 109        <activity
-109-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:90:9-93:72
-110            android:name="xeliuqa.com.PIN_Create1"
-110-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:91:13-40
+109-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:82:9-85:72
+110            android:name="xeliuqa.com.PIN_Verify"
+110-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:83:13-39
 111            android:configChanges="orientation|keyboardHidden|screenSize"
-111-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:92:13-74
+111-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:84:13-74
 112            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-112-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:93:13-69
+112-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:85:13-69
 113        <activity
-113-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:94:9-97:72
-114            android:name="xeliuqa.com.Transaction_BCH"
-114-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:95:13-44
+113-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:86:9-89:72
+114            android:name="xeliuqa.com.PIN_Create2"
+114-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:87:13-40
 115            android:configChanges="orientation|keyboardHidden|screenSize"
-115-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:96:13-74
+115-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:88:13-74
 116            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-116-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:97:13-69
+116-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:89:13-69
 117        <activity
-117-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:98:9-101:72
-118            android:name="xeliuqa.com.Account"
-118-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:99:13-36
+117-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:90:9-93:72
+118            android:name="xeliuqa.com.PIN_Create1"
+118-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:91:13-40
 119            android:configChanges="orientation|keyboardHidden|screenSize"
-119-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:100:13-74
+119-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:92:13-74
 120            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-120-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:101:13-69
+120-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:93:13-69
 121        <activity
-121-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:102:9-105:72
-122            android:name="xeliuqa.com.erc_send"
-122-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:103:13-37
+121-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:94:9-97:72
+122            android:name="xeliuqa.com.Transaction_BCH"
+122-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:95:13-44
 123            android:configChanges="orientation|keyboardHidden|screenSize"
-123-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:104:13-74
+123-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:96:13-74
 124            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-124-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:105:13-69
+124-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:97:13-69
 125        <activity
-125-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:106:9-109:72
-126            android:name="xeliuqa.com.eth_send"
-126-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:107:13-37
+125-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:98:9-101:72
+126            android:name="xeliuqa.com.Account"
+126-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:99:13-36
 127            android:configChanges="orientation|keyboardHidden|screenSize"
-127-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:108:13-74
+127-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:100:13-74
 128            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-128-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:109:13-69
+128-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:101:13-69
 129        <activity
-129-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:110:9-113:72
-130            android:name="xeliuqa.com.blockchain"
-130-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:111:13-39
+129-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:102:9-105:72
+130            android:name="xeliuqa.com.erc_send"
+130-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:103:13-37
 131            android:configChanges="orientation|keyboardHidden|screenSize"
-131-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:112:13-74
+131-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:104:13-74
 132            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-132-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:113:13-69
+132-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:105:13-69
 133        <activity
-133-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:114:9-117:72
-134            android:name="xeliuqa.com.btc_send"
-134-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:115:13-37
+133-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:106:9-109:72
+134            android:name="xeliuqa.com.eth_send"
+134-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:107:13-37
 135            android:configChanges="orientation|keyboardHidden|screenSize"
-135-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:116:13-74
+135-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:108:13-74
 136            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-136-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:117:13-69
+136-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:109:13-69
 137        <activity
-137-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:118:9-121:72
-138            android:name="xeliuqa.com.qrcode"
-138-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:119:13-35
+137-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:110:9-113:72
+138            android:name="xeliuqa.com.blockchain"
+138-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:111:13-39
 139            android:configChanges="orientation|keyboardHidden|screenSize"
-139-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:120:13-74
+139-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:112:13-74
 140            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-140-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:121:13-69
+140-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:113:13-69
 141        <activity
-141-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:122:9-125:72
-142            android:name="xeliuqa.com.Transaction_ERC"
-142-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:123:13-44
+141-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:114:9-117:72
+142            android:name="xeliuqa.com.btc_send"
+142-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:115:13-37
 143            android:configChanges="orientation|keyboardHidden|screenSize"
-143-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:124:13-74
+143-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:116:13-74
 144            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-144-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:125:13-69
+144-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:117:13-69
 145        <activity
-145-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:126:9-129:72
-146            android:name="xeliuqa.com.Transaction_BTC"
-146-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:127:13-44
+145-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:118:9-121:72
+146            android:name="xeliuqa.com.qrcode"
+146-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:119:13-35
 147            android:configChanges="orientation|keyboardHidden|screenSize"
-147-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:128:13-74
+147-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:120:13-74
 148            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-148-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:129:13-69
+148-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:121:13-69
 149        <activity
-149-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:130:9-133:72
-150            android:name="xeliuqa.com.Transaction_ETH"
-150-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:131:13-44
+149-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:122:9-125:72
+150            android:name="xeliuqa.com.Transaction_ERC"
+150-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:123:13-44
 151            android:configChanges="orientation|keyboardHidden|screenSize"
-151-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:132:13-74
+151-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:124:13-74
 152            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-152-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:133:13-69
+152-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:125:13-69
 153        <activity
-153-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:134:9-137:72
-154            android:name="xeliuqa.com.Forgot"
-154-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:135:13-35
+153-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:126:9-129:72
+154            android:name="xeliuqa.com.Transaction_BTC"
+154-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:127:13-44
 155            android:configChanges="orientation|keyboardHidden|screenSize"
-155-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:136:13-74
+155-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:128:13-74
 156            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-156-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:137:13-69
+156-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:129:13-69
 157        <activity
-157-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:138:9-141:72
-158            android:name="xeliuqa.com.Verify_Seed"
-158-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:139:13-40
+157-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:130:9-133:72
+158            android:name="xeliuqa.com.Transaction_ETH"
+158-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:131:13-44
 159            android:configChanges="orientation|keyboardHidden|screenSize"
-159-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:140:13-74
+159-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:132:13-74
 160            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-160-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:141:13-69
+160-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:133:13-69
 161        <activity
-161-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:142:9-145:72
-162            android:name="xeliuqa.com.Word_Seed"
-162-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:143:13-38
+161-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:134:9-137:72
+162            android:name="xeliuqa.com.Forgot"
+162-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:135:13-35
 163            android:configChanges="orientation|keyboardHidden|screenSize"
-163-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:144:13-74
+163-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:136:13-74
 164            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-164-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:145:13-69
+164-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:137:13-69
 165        <activity
-165-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:146:9-149:72
-166            android:name="xeliuqa.com.Message"
-166-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:147:13-36
+165-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:138:9-141:72
+166            android:name="xeliuqa.com.Verify_Seed"
+166-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:139:13-40
 167            android:configChanges="orientation|keyboardHidden|screenSize"
-167-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:148:13-74
+167-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:140:13-74
 168            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-168-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:149:13-69
+168-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:141:13-69
 169        <activity
-169-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:150:9-153:72
-170            android:name="xeliuqa.com.MainActivity"
-170-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:151:13-41
+169-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:142:9-145:72
+170            android:name="xeliuqa.com.Word_Seed"
+170-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:143:13-38
 171            android:configChanges="orientation|keyboardHidden|screenSize"
-171-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:152:13-74
+171-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:144:13-74
 172            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-172-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:153:13-69
+172-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:145:13-69
 173        <activity
-173-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:154:9-157:72
-174            android:name="xeliuqa.com.Signin"
-174-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:155:13-35
+173-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:146:9-149:72
+174            android:name="xeliuqa.com.Message"
+174-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:147:13-36
 175            android:configChanges="orientation|keyboardHidden|screenSize"
-175-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:156:13-74
+175-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:148:13-74
 176            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-176-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:157:13-69
+176-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:149:13-69
 177        <activity
-177-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:158:9-161:72
-178            android:name="xeliuqa.com.Signup"
-178-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:159:13-35
+177-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:150:9-153:72
+178            android:name="xeliuqa.com.MainActivity"
+178-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:151:13-41
 179            android:configChanges="orientation|keyboardHidden|screenSize"
-179-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:160:13-74
+179-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:152:13-74
 180            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-180-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:161:13-69
+180-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:153:13-69
 181        <activity
-181-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:162:9-165:72
-182            android:name="xeliuqa.com.Welcome"
-182-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:163:13-36
+181-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:154:9-157:72
+182            android:name="xeliuqa.com.Signin"
+182-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:155:13-35
 183            android:configChanges="orientation|keyboardHidden|screenSize"
-183-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:164:13-74
+183-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:156:13-74
 184            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
-184-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:165:13-69
+184-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:157:13-69
 185        <activity
-185-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:167:9-175:20
-186            android:name="xeliuqa.com.SplashActivity"
-186-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:167:19-49
-187            android:exported="true"
-187-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:170:13-36
-188            android:screenOrientation="portrait"
-188-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:168:13-49
-189            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-189-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:169:13-69
-190            <intent-filter>
-190-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:171:13-174:29
-191                <action android:name="android.intent.action.MAIN" />
-191-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:172:17-69
-191-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:172:25-66
-192
-193                <category android:name="android.intent.category.LAUNCHER" />
-193-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:173:17-77
-193-->C:\Users\MinerOnDemand\Documents\MEGAsync\Xeliuqa\app\src\main\AndroidManifest.xml:173:27-74
-194            </intent-filter>
-195        </activity>
-196        <activity
-196-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\fd653529fee3ad987427345c994f5f72\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
-197            android:name="com.journeyapps.barcodescanner.CaptureActivity"
-197-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\fd653529fee3ad987427345c994f5f72\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:48:13-74
-198            android:clearTaskOnLaunch="true"
-198-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\fd653529fee3ad987427345c994f5f72\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:49:13-45
-199            android:screenOrientation="sensorLandscape"
-199-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\fd653529fee3ad987427345c994f5f72\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:50:13-56
-200            android:stateNotNeeded="true"
-200-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\fd653529fee3ad987427345c994f5f72\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:51:13-42
-201            android:theme="@style/zxing_CaptureTheme"
-201-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\fd653529fee3ad987427345c994f5f72\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:52:13-54
-202            android:windowSoftInputMode="stateAlwaysHidden" />
-202-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\fd653529fee3ad987427345c994f5f72\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:53:13-60
-203    </application>
-204
-205</manifest>
+185-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:158:9-161:72
+186            android:name="xeliuqa.com.Signup"
+186-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:159:13-35
+187            android:configChanges="orientation|keyboardHidden|screenSize"
+187-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:160:13-74
+188            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+188-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:161:13-69
+189        <activity
+189-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:162:9-165:72
+190            android:name="xeliuqa.com.Welcome"
+190-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:163:13-36
+191            android:configChanges="orientation|keyboardHidden|screenSize"
+191-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:164:13-74
+192            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+192-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:165:13-69
+193        <activity
+193-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:167:9-175:20
+194            android:name="xeliuqa.com.SplashActivity"
+194-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:167:19-49
+195            android:exported="true"
+195-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:170:13-36
+196            android:screenOrientation="portrait"
+196-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:168:13-49
+197            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+197-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:169:13-69
+198            <intent-filter>
+198-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:171:13-174:29
+199                <action android:name="android.intent.action.MAIN" />
+199-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:172:17-69
+199-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:172:25-66
+200
+201                <category android:name="android.intent.category.LAUNCHER" />
+201-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:173:17-77
+201-->C:\Users\MinerOnDemand\Documents\MEGA\Xeliuqa\app\src\main\AndroidManifest.xml:173:27-74
+202            </intent-filter>
+203        </activity>
+204        <activity
+204-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\fd653529fee3ad987427345c994f5f72\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:47:9-53:63
+205            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+205-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\fd653529fee3ad987427345c994f5f72\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:48:13-74
+206            android:clearTaskOnLaunch="true"
+206-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\fd653529fee3ad987427345c994f5f72\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:49:13-45
+207            android:screenOrientation="sensorLandscape"
+207-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\fd653529fee3ad987427345c994f5f72\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:50:13-56
+208            android:stateNotNeeded="true"
+208-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\fd653529fee3ad987427345c994f5f72\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:51:13-42
+209            android:theme="@style/zxing_CaptureTheme"
+209-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\fd653529fee3ad987427345c994f5f72\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:52:13-54
+210            android:windowSoftInputMode="stateAlwaysHidden" />
+210-->[com.journeyapps:zxing-android-embedded:3.6.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\fd653529fee3ad987427345c994f5f72\transformed\jetified-zxing-android-embedded-3.6.0\AndroidManifest.xml:53:13-60
+211
+212        <provider
+212-->[androidx.emoji2:emoji2:1.2.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+213            android:name="androidx.startup.InitializationProvider"
+213-->[androidx.emoji2:emoji2:1.2.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+214            android:authorities="xeliuqa.com.androidx-startup"
+214-->[androidx.emoji2:emoji2:1.2.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+215            android:exported="false" >
+215-->[androidx.emoji2:emoji2:1.2.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+216            <meta-data
+216-->[androidx.emoji2:emoji2:1.2.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+217                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+217-->[androidx.emoji2:emoji2:1.2.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+218                android:value="androidx.startup" />
+218-->[androidx.emoji2:emoji2:1.2.0] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\1f2ec24e04aa7670dbdd4e904437e8bf\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+219            <meta-data
+219-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\2843dd8f352d29054991aa53179df82d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+220                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+220-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\2843dd8f352d29054991aa53179df82d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+221                android:value="androidx.startup" />
+221-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\MinerOnDemand\.gradle\caches\transforms-3\2843dd8f352d29054991aa53179df82d\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+222        </provider>
+223    </application>
+224
+225</manifest>

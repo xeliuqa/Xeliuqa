@@ -65,7 +65,7 @@ public class Signin extends AppCompatActivity {
         forgot = (LinearLayout) findViewById(R.id.forgot);
         signIn = (Button) findViewById(R.id.signin);
         email = (EditText) findViewById(R.id.email);
-        password = (EditText) findViewById(R.id.password);
+        password = findViewById(R.id.password);
 
         forgot.setOnClickListener(new View.OnClickListener() {
            @Override

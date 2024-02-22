@@ -97,7 +97,7 @@ public class Signup extends AppCompatActivity {
                if (validateInputs()) {
                    passwords = password.getText().toString().trim();
                    cpasswords = cpassword.getText().toString().trim();
-                   if (isEmailValid(emails)==false){
+                   if (!isEmailValid(emails)){
                        Message alert = new Message();
                        alert.showDialog(Signup.this, "Email is not valid");
                    }else{

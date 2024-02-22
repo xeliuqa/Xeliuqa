@@ -44,11 +44,15 @@ import xeliuqa.com.Adapter.ETHData;
 import xeliuqa.com.Adapter.MKRData;
 import xeliuqa.com.Adapter.OMGData;
 import xeliuqa.com.Adapter.PAXData;
+import xeliuqa.com.Adapter.SMHData;
 import xeliuqa.com.Adapter.TUSDData;
 import xeliuqa.com.Adapter.USDCData;
 
 public class MainActivity extends AppCompatActivity {
     //Get percentage
+    public static TextView smh_percent_change_1h;
+    public static TextView smh_percent_change_24h;
+    public static TextView smh_percent_change_7d;
     public static TextView btc_percent_change_1h;
     public static TextView btc_percent_change_24h;
     public static TextView btc_percent_change_7d;
@@ -101,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
     private DataHandler enc;
     ImageView setting;
     private Spinner spin;
-    //private TextView lyte_balance;
+    private TextView smh_balance;
     private TextView btc_balance;
     private TextView eth_balance;
     private TextView etc_balance;
@@ -114,6 +118,8 @@ public class MainActivity extends AppCompatActivity {
     private TextView mkr_balance;
     private TextView tusd_balance;
 
+
+    private TextView smh_usd;
     private TextView btc_usd;
     private TextView eth_usd;
     private TextView etc_usd;
@@ -126,11 +132,11 @@ public class MainActivity extends AppCompatActivity {
     private TextView mkr_usd;
     private TextView tusd_usd;
 
-    private String api_url = "http://"+ conf.url() +":8080/v1/ethbalance"; //Change your IP
-    private String api_url2 = "http://"+ conf.url()+":8080/v1/tokenbalance";//Change your IP
-    private String api_url3 = "http://"+ conf.url()+":8082/v1/coin";//Change your IP
+    private String api_url = "http://"+ Config.url() +":8080/v1/ethbalance"; //Change your IP
+    private String api_url2 = "http://"+ Config.url()+":8080/v1/tokenbalance";//Change your IP
+    private String api_url3 = "http://"+ Config.url()+":8082/v1/coin";//Change your IP
 
-    //RelativeLayout btn_lyte;
+    RelativeLayout btn_smh;
     RelativeLayout btn_btc;
     RelativeLayout btn_eth;
     RelativeLayout btn_etc;
@@ -148,6 +154,7 @@ public class MainActivity extends AppCompatActivity {
     Runnable runnable;
 
     private String eth_rate;
+    private String smh_rate;
     private String etc_rate;
     private String btc_rate;
     private String bch_rate;
@@ -160,6 +167,7 @@ public class MainActivity extends AppCompatActivity {
     private String tusd_rate;
 
     private String seth_rates;
+    private String ssmh_rates;
     private String setc_rates;
     private String sbtc_rates;
     private String sbch_rates;
@@ -172,6 +180,7 @@ public class MainActivity extends AppCompatActivity {
     private String stusd_rates;
 
     private String seth_rate;
+    private String ssmh_rate;
     private String setc_rate;
     private String sbtc_rate;
     private String sbch_rate;
@@ -242,6 +251,7 @@ public class MainActivity extends AppCompatActivity {
 
         spin = (Spinner) findViewById(R.id.spinner1);
 
+        smh_balance = (TextView) findViewById(R.id.smh_balance);
         btc_balance = (TextView) findViewById(R.id.btc_balance);
         eth_balance = (TextView) findViewById(R.id.eth_balance);
         etc_balance = (TextView) findViewById(R.id.etc_balance);
@@ -254,6 +264,7 @@ public class MainActivity extends AppCompatActivity {
         mkr_balance = (TextView) findViewById(R.id.mkr_balance);
         tusd_balance = (TextView) findViewById(R.id.tusd_balance);
 
+        btn_smh = (RelativeLayout) findViewById(R.id.smh_button);
         btn_btc = (RelativeLayout) findViewById(R.id.btc_button);
         btn_eth = (RelativeLayout) findViewById(R.id.eth_button);
         btn_etc = (RelativeLayout) findViewById(R.id.etc_button);
@@ -266,6 +277,7 @@ public class MainActivity extends AppCompatActivity {
         btn_mkr = (RelativeLayout) findViewById(R.id.mkr_button);
         btn_tusd = (RelativeLayout) findViewById(R.id.tusd_button);
 
+        smh_usd = (TextView) findViewById(R.id.smh_usd);
         eth_usd = (TextView) findViewById(R.id.eth_usd);
         etc_usd = (TextView) findViewById(R.id.etc_usd);
         btc_usd = (TextView) findViewById(R.id.btc_usd);
@@ -282,6 +294,9 @@ public class MainActivity extends AppCompatActivity {
         pullToRefresh = findViewById(R.id.pullToRefresh);
 
         //Percentage
+        smh_percent_change_1h = (TextView) findViewById(R.id.smh_percent_change_1h);
+        smh_percent_change_24h = (TextView) findViewById(R.id.smh_percent_change_24h);
+        smh_percent_change_7d = (TextView) findViewById(R.id.smh_percent_change_7d);
         btc_percent_change_1h = (TextView) findViewById(R.id.btc_percent_change_1h);
         btc_percent_change_24h = (TextView) findViewById(R.id.btc_percent_change_24h);
         btc_percent_change_7d = (TextView) findViewById(R.id.btc_percent_change_7d);
@@ -322,6 +337,14 @@ public class MainActivity extends AppCompatActivity {
 
         coins1="No";
 
+
+        btn_smh.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Message dialog = new Message();
+                dialog.showDialog(MainActivity.this, "SMHis not yet available.");
+            }
+        });
 
         btn_btc.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -434,6 +457,7 @@ public class MainActivity extends AppCompatActivity {
                 //balance
                 get_version_content();
 
+
                 get_ETH_balance();
                 get_ETC_balance();
                 get_BTC_balance();
@@ -444,7 +468,9 @@ public class MainActivity extends AppCompatActivity {
                 get_USDC_balance();
                 get_MKR_balance();
                 get_TUSD_balance();
+                get_SMH_balance();
 
+                getUSD_SMH();
                 getUSD_BTC();
                 getUSD_ETH();
                 getUSD_ETC();
@@ -762,6 +788,33 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void get_TUSD_balance(){
+        JSONObject request = new JSONObject();
+        try {
+            request.put("address", address);
+            request.put("contract", "0x0000000000085d4780B73119b644AE5ecd22b376");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        JsonObjectRequest jsArrayRequest = new JsonObjectRequest
+                (com.android.volley.Request.Method.POST, api_url2, request, new com.android.volley.Response.Listener<JSONObject>() {
+                    @Override
+                    public void onResponse(JSONObject response) {
+                        try {
+                            Double res = Double.parseDouble(response.get("balance").toString());
+                            String format = String.format("%.8f",res);
+                            tusd_balance.setText(format);
+                        } catch (Exception e) {
+                            e.printStackTrace();
+                        }
+                    }
+                }, new com.android.volley.Response.ErrorListener() {
+
+                    public void onErrorResponse(VolleyError error) {
+                    }
+                });
+        MySingleton.getInstance(this).addToRequestQueue(jsArrayRequest);
+    }
+    private void get_SMH_balance(){
         JSONObject request = new JSONObject();
         try {
             request.put("address", address);
@@ -1147,6 +1200,37 @@ public class MainActivity extends AppCompatActivity {
                 });
         MySingleton.getInstance(this).addToRequestQueue(jsArrayRequest);
     }
+    private void getUSD_SMH() {
+        JSONObject request = new JSONObject();
+        try {
+            request.put("coin", "spacemesh");
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        JsonObjectRequest jsArrayRequest = new JsonObjectRequest
+                (Request.Method.GET, "https://api.coingecko.com/api/v3/simple/price?ids=spacemesh&vs_currencies=usd", request, new com.android.volley.Response.Listener<JSONObject>() {
+                    @Override
+                    public void onResponse(JSONObject response) {
+                        try {
+                            String res = response.toString();
+                            JSONObject jsonObject = new JSONObject(res);
+                            Double rate = (Double) jsonObject.get("usd");
+                            String eths = String.format("%.2f", rate);
+                            smh_usd.setText("$"+eths);
+                            ssmh_rates = rate.toString();
+                            SMHData process = new SMHData();
+                            process.execute();
+                        } catch (Exception e) {
+                            e.printStackTrace();
+                        }
+                    }
+                }, new com.android.volley.Response.ErrorListener() {
+
+                    public void onErrorResponse(VolleyError error) {
+                    }
+                });
+        MySingleton.getInstance(this).addToRequestQueue(jsArrayRequest);
+    }
 
     protected void onResume() {
 
@@ -1210,12 +1294,17 @@ public class MainActivity extends AppCompatActivity {
                         //
                         double f10 = Double.parseDouble(setc_rates);
                         double bals10 = Double.parseDouble(etc_balance.getText().toString());
-                        bals10 = bals10 * f;
+                        bals10 = bals10 * f10;
                         String eths10 = String.format("%.2f", bals10);
                         setc_rate = eths10;
                         //
+                        double f11 = Double.parseDouble(ssmh_rates);
+                        double bals11 = Double.parseDouble(smh_balance.getText().toString());
+                        bals11 = bals11 * f11;
+                        String eths11 = String.format("%.2f", bals11);
+                        ssmh_rate = eths11;
+                        //
                         //Total
-//                        double ly = Double.parseDouble(slyte_rate);
                         double bt = Double.parseDouble(sbtc_rate);
                         double et = Double.parseDouble(seth_rate);
                         double ec = Double.parseDouble(setc_rate);
@@ -1226,8 +1315,9 @@ public class MainActivity extends AppCompatActivity {
                         double usc = Double.parseDouble(susdc_rate);
                         double mk = Double.parseDouble(smkr_rate);
                         double tu = Double.parseDouble(stusd_rate);
+                        double sm = Double.parseDouble(ssmh_rate);
 
-                        double total =  et + bt + px + bn + ba + om + usc + mk + tu + ec;
+                        double total =  et + bt + px + bn + ba + om + usc + mk + tu + ec + sm;
                         String tot = String.format("%.2f", total);
                         USD.setText("$ " + tot);
                     } catch (Exception e){
@@ -1361,6 +1451,7 @@ public class MainActivity extends AppCompatActivity {
                 get_USDC_balance();
                 get_MKR_balance();
                 get_TUSD_balance();
+                get_SMH_balance();
 
                 getUSD_ETH();
                 getUSD_ETC();
@@ -1373,6 +1464,7 @@ public class MainActivity extends AppCompatActivity {
                 getUSD_USDC();
                 getUSD_MKR();
                 getUSD_TUSD();
+                getUSD_SMH();
 
                 get_version();
                 //Calculate to usd

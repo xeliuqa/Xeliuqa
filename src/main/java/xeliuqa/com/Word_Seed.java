@@ -20,7 +20,7 @@ import org.json.JSONObject;
 public class Word_Seed extends AppCompatActivity {
 
     private Config conf;
-    private String api_url = "http://"+conf.url()+":8081/v1/btc";
+    private String api_url = "http://"+ conf.url()+":8081/v1/btc";
     private String api_url2 = "http://"+ conf.url() +":8080/v1/generate/eth";
     private String api_url3 = "http://"+ conf.url()+":8085/v1/bch";
 

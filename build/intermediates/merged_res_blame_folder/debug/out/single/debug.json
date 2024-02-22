@@ -1,690 +1,698 @@
 [
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable-xhdpi_ic_action_name.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable-xhdpi/ic_action_name.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-hdpi_logo.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-hdpi/logo.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_seed.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/seed.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable-xxxhdpi_ic_stat_name.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable-xxxhdpi/ic_stat_name.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_main.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_main.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_glass3.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/glass3.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-anydpi-v26_logo.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-anydpi-v26/logo.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_arrow_left.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/arrow_left.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_bchcolor.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/bchcolor.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_settings.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/settings.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_pin2.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_pin2.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable-xxxhdpi/ic_action_name.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_etc_send.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_etc_send.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable-hdpi_ic_action_name.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable-hdpi/ic_action_name.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_message.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_message.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_passphrase1.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_passphrase1.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_pax.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/pax.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-mdpi_logo_round.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-mdpi/logo_round.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_sponser.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/sponser.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_home.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/home.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_edit2.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/edit2.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable-hdpi_ic_stat_name.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable-hdpi/ic_stat_name.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xxhdpi_logo_round.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xxhdpi/logo_round.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_container_history.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/container_history.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable-hdpi_ic_stat_name.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable-hdpi/ic_stat_name.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_message.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_message.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-mdpi_logo_round.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-mdpi/logo_round.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_btc.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/btc.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_bnbcolor.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/bnbcolor.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_sponser.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/sponser.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_batcolor.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/batcolor.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xxhdpi_logo.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xxhdpi/logo.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_shape2.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/shape2.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable-mdpi_ic_action_name.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable-mdpi/ic_action_name.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_card.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/card.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_bnb.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/bnb.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/xml_backup_rules.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/xml/backup_rules.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_edit2.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/edit2.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_arrow_b.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/arrow_b.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable-xhdpi_ic_stat_name.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable-xhdpi/ic_stat_name.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_etccolor.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/etccolor.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-anydpi-v26_logo.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-anydpi-v26/logo.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_reward.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/reward.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_reward.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_reward.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_pin2.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_pin2.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_eth.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/eth.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-hdpi_logo_round.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-hdpi/logo_round.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_login_register_button.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/login_register_button.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable-v24_shape.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable-v24/shape.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xxxhdpi_logo_round.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xxxhdpi/logo_round.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "xeliuqa.com.app-debug-33:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_arrow_b.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/arrow_b.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_flyer.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/flyer.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_glass_receive.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/glass_receive.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/menu_navigation.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/menu/navigation.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_arrow_up.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/arrow_up.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_blockchain.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_blockchain.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_passphrase1.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_passphrase1.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_tusdcolor.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/tusdcolor.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_btc_transaction.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_btc_transaction.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_email2.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/email2.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_logout.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/logout.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_arrow_left.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/arrow_left.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_etc_send.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_etc_send.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_logout.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/logout.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_qrcode.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_qrcode.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_seed.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_seed.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_etc.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/etc.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_name2.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/name2.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_pax.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/pax.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_help.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/help.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_settings.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_settings.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_asset.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_asset.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_signup.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_signup.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_edit.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/edit.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/xml/backup_rules.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_btc_transaction.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_btc_transaction.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_edit.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/edit.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_trade.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_trade.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable-mdpi_ic_stat_name.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable-mdpi/ic_stat_name.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_glass.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/glass.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable-xhdpi_ic_action_name.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable-xhdpi/ic_action_name.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_arrow_r.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/arrow_r.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_glass2.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/glass2.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_down.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/down.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_bch_send.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_bch_send.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-mdpi_logo_foreground.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-mdpi/logo_foreground.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_glass.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/glass.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable-xxxhdpi_ic_stat_name.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable-xxxhdpi/ic_stat_name.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_etccolor.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/etccolor.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_switch_thumb_selector.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/switch_thumb_selector.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_switch_thumb_selector.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/switch_thumb_selector.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_exchange.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/exchange.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_notify.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/notify.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_email.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/email.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_usdc.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/usdc.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_ethcolor.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/ethcolor.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/xml_network_secutiry_config.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/xml/network_secutiry_config.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_history.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_history.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-hdpi_logo_round.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-hdpi/logo_round.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_button_selected.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/button_selected.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_history.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_history.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_bch.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/bch.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_thumb.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/thumb.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xhdpi_logo.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xhdpi/logo.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_name.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/name.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_usdccolor.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/usdccolor.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "xeliuqa.com.app-debug-22:/mipmap-xhdpi/ic_launcher_foreground.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "xeliuqa.com.app-debug-33:/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/xml_data_extraction_rules.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/xml/data_extraction_rules.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_eth.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/eth.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_feedback.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/feedback.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_pk.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/pk.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_editext.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/editext.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_tusdcolor.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/tusdcolor.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_asset.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_asset.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_btc_send.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_btc_send.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_bch_send.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_bch_send.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "xeliuqa.com.app-debug-33:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_login_register.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/login_register.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_erc_transaction.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_erc_transaction.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_blockchain.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_blockchain.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xxxhdpi_logo.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xxxhdpi/logo.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_account.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/account.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_tusd.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/tusd.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xxhdpi_logo.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xxhdpi/logo.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xhdpi_logo_round.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xhdpi/logo_round.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable-v24_shape.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable-v24/shape.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_feed.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/feed.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_eth_transaction.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_eth_transaction.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xxxhdpi_logo_foreground.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xxxhdpi/logo_foreground.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_otp.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_otp.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_button_selected.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/button_selected.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_arrow_r.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/arrow_r.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_forgot.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_forgot.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_mkrcolor.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/mkrcolor.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "xeliuqa.com.app-debug-22:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_account.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_account.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable-xxxhdpi_ic_action_name.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable-xxxhdpi/ic_action_name.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_key.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/key.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_smhcolor.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/smhcolor.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable-xxhdpi_ic_action_name.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable-xxhdpi/ic_action_name.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_main.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_glass_receive.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/glass_receive.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "xeliuqa.com.app-debug-33:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable-mdpi_ic_stat_name.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable-mdpi/ic_stat_name.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_chart.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/chart.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_square.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/square.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_usdc.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/usdc.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-hdpi_logo_foreground.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-hdpi/logo_foreground.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_eth_transaction.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_eth_transaction.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_down.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/down.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_welcome.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_welcome.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_coinmex.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/coinmex.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_paxcolor.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/paxcolor.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_mkr.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/mkr.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_list_data.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/list_data.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_otp.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_otp.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_account.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/account.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_feed.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/feed.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_pk.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/pk.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_ethcolor.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/ethcolor.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_login_register_button.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/login_register_button.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_omg.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/omg.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_button_send.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/button_send.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_erc_transaction.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_erc_transaction.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_omg.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/omg.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_exchange.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/exchange.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_spinner_cutom_layout.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/spinner_cutom_layout.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_tusd.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/tusd.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "xeliuqa.com.app-pngs-16:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_square.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/square.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_glass_send.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/glass_send.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_account_edit.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_account_edit.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_button_send.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/button_send.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_warn.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/warn.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_glass_bottom.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/glass_bottom.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_key.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/key.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_erc_send.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_erc_send.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_exchange.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_exchange.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_logo.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/logo.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_status.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_status.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_btc_send.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_btc_send.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_container_fish.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/container_fish.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_update_ticker.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_update_ticker.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xxhdpi_logo_foreground.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xxhdpi/logo_foreground.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "xeliuqa.com.app-debug-33:/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_eth_send.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_eth_send.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_notify.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/notify.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xhdpi_logo.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xhdpi/logo.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xhdpi_logo_foreground.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xhdpi/logo_foreground.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_account_edit.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_account_edit.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_welcome.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_welcome.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_xrp.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/xrp.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_thumb2.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/thumb2.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "xeliuqa.com.app-debug-22:/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_login_register.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/login_register.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_arrow_down.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/arrow_down.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_forgot.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_forgot.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_bat.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/bat.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_status.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_status.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xxxhdpi_logo.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xxxhdpi/logo.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_verify_seed.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_verify_seed.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xhdpi_logo_round.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xhdpi/logo_round.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_bch_transaction.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_bch_transaction.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_etc_transaction.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_etc_transaction.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_mkr.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/mkr.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_name.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/name.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_chart.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/chart.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-anydpi-v26_logo_round.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-anydpi-v26/logo_round.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_settings.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_settings.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-mdpi_logo_foreground.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-mdpi/logo_foreground.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_erc_send.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_erc_send.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_signin.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_signin.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_account.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_account.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-hdpi_logo_foreground.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-hdpi/logo_foreground.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_btccolor.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/btccolor.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_smh.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/smh.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_ethl.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/ethl.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_editext.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/editext.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_pin_verify.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_pin_verify.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_glass_bottom.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/glass_bottom.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_xrp.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/xrp.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "xeliuqa.com.app-debug-22:/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "xeliuqa.com.app-debug-33:/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_verify_seed.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_verify_seed.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_coinmex.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/coinmex.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_detail.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_detail.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_list_data.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/list_data.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_splash.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_splash.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_thumb.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/thumb.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_glass2.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/glass2.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_omgcolor.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/omgcolor.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_email.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/email.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/menu_navigation.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/menu/navigation.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_update.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_update.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_container_fish.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/container_fish.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_glass3.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/glass3.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_seed.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_seed.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_update_ticker.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_update_ticker.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_email2.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/email2.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_arrow_right.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/arrow_right.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_notify2.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/notify2.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "xeliuqa.com.app-debug-22:/mipmap-hdpi/ic_launcher_foreground.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-mdpi_logo.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-mdpi/logo.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_arrow_up.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/arrow_up.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_usdccolor.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/usdccolor.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_btccolor.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/btccolor.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_thumb2.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/thumb2.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_ethl.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/ethl.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_notify2.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/notify2.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable-xxhdpi/ic_action_name.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_logo.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/logo.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_batcolor.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/batcolor.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-mdpi_logo.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-mdpi/logo.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_up.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/up.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_bch.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/bch.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_arrow_down.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/arrow_down.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_spinner_cutom_layout.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/spinner_cutom_layout.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_update.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_update.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_reward.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/reward.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_navigation_bottom.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/navigation_bottom.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_bat.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/bat.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_home.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/home.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable-xxhdpi_ic_stat_name.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable-xxhdpi/ic_stat_name.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_warn.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/warn.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_card.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/card.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_omgcolor.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/omgcolor.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_bnbcolor.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/bnbcolor.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_navigation_bottom.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/navigation_bottom.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_help.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/help.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable-hdpi_ic_action_name.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable-hdpi/ic_action_name.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_pin1.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_pin1.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xxhdpi_logo_foreground.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xxhdpi/logo_foreground.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_pin_verify.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_pin_verify.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_shape2.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/shape2.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable-xxhdpi_ic_stat_name.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable-xxhdpi/ic_stat_name.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_trade.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_trade.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_etc.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/etc.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_seed.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/seed.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_paxcolor.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/paxcolor.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xxxhdpi_logo_foreground.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xxxhdpi/logo_foreground.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_signup.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_signup.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_qr.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/qr.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_bchcolor.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/bchcolor.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_etc_transaction.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_etc_transaction.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_bch_transaction.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_bch_transaction.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_container_history.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/container_history.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_qr.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/qr.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_key2.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/key2.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_arrow_right.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/arrow_right.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_bnb.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/bnb.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_splash.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_splash.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_settings.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/settings.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_up.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/up.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_flyer.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/flyer.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-xhdpi_logo_foreground.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-xhdpi/logo_foreground.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_eth_send.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_eth_send.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_ic_launcher_background.xml.flat",
-        "source": "xeliuqa.com.app-debug-22:/drawable/ic_launcher_background.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xxxhdpi_logo_round.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xxxhdpi/logo_round.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_exit.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/exit.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_exit.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/exit.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable-mdpi_ic_action_name.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable-mdpi/ic_action_name.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/mipmap-xxhdpi_logo_round.png.flat",
+        "source": "xeliuqa.com.app-main-34:/mipmap-xxhdpi/logo_round.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_signin.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_signin.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_detail.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_detail.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-anydpi-v26_logo_round.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-anydpi-v26/logo_round.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/xml_network_secutiry_config.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/xml/network_secutiry_config.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/layout_activity_qrcode.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/layout/activity_qrcode.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_glass_send.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/glass_send.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable-xhdpi_ic_stat_name.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable-xhdpi/ic_stat_name.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_reward.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_reward.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/mipmap-hdpi_logo.png.flat",
-        "source": "xeliuqa.com.app-main-23:/mipmap-hdpi/logo.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_name2.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/name2.png"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_mkrcolor.xml.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/mkrcolor.xml"
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_pin1.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_pin1.xml"
     },
     {
-        "merged": "xeliuqa.com.app-merged_res-21:/drawable_btc.png.flat",
-        "source": "xeliuqa.com.app-main-23:/drawable/btc.png"
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_key2.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/key2.png"
+    },
+    {
+        "merged": "xeliuqa.com.app-merged_res-32:/layout_activity_exchange.xml.flat",
+        "source": "xeliuqa.com.app-main-34:/layout/activity_exchange.xml"
+    },
+    {
+        "merged": "xeliuqa.com.app-merged_res-32:/drawable_feedback.png.flat",
+        "source": "xeliuqa.com.app-main-34:/drawable/feedback.png"
     }
 ]

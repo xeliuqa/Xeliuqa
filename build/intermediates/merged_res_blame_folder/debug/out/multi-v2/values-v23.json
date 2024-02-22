@@ -1,29 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "xeliuqa.com.app-mergeDebugResources-19:/values-v23/values-v23.xml",
+            "outputFile": "xeliuqa.com.app-mergeDebugResources-30:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MinerOnDemand\\.gradle\\caches\\transforms-3\\16b86fed26011bc89c56c7ce0466e745\\transformed\\appcompat-1.1.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\MinerOnDemand\\.gradle\\caches\\transforms-3\\f74642be8bf65ac97ac1c6fafb4bca13\\transformed\\material-1.9.0\\res\\values-v23\\values-v23.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
-                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
-                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
-                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
+                        "startLines": "2,5,8,13,17,20,23,26,31,34,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,271,481,801,1038,1245,1452,1655,1987,2189,2454",
+                        "endLines": "4,7,12,16,19,22,25,30,33,37,41",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "266,476,796,1033,1240,1447,1650,1982,2184,2449,2722"
                     },
                     "to": {
-                        "startLines": "10,11,12,13,14,28,42,43,44,45,49,50,51,52",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "437,572,707,782,869,1607,2357,2476,2603,2708,2932,3047,3154,3267",
-                        "endLines": "10,11,12,13,27,41,42,43,44,48,49,50,51,55",
-                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
-                        "endOffsets": "567,702,777,864,1602,2352,2471,2598,2703,2927,3042,3149,3262,3492"
+                        "startLines": "61,64,67,72,76,79,82,85,90,93,97",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3764,3980,4190,4510,4747,4954,5161,5364,5696,5898,6163",
+                        "endLines": "63,66,71,75,78,81,84,89,92,96,100",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "3975,4185,4505,4742,4949,5156,5359,5691,5893,6158,6431"
                     }
                 },
                 {
-                    "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGAsync\\Xeliuqa\\app\\src\\main\\res\\values-v23\\styles.xml",
+                    "source": "C:\\Users\\MinerOnDemand\\Documents\\MEGA\\Xeliuqa\\app\\src\\main\\res\\values-v23\\styles.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
@@ -42,6 +42,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\MinerOnDemand\\.gradle\\caches\\transforms-3\\780c8931bfe5d3b0e26a458d121ff58b\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1225,1975,2094,2221,2443,2667,2782,2889,3002",
+                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1220,1970,2089,2216,2438,2662,2777,2884,2997,3227"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,28,42,43,44,47,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "437,572,707,782,869,1607,2357,2476,2603,2825,3049,3164,3271,3384",
+                        "endLines": "10,11,12,13,27,41,42,43,46,50,51,52,53,57",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "567,702,777,864,1602,2352,2471,2598,2820,3044,3159,3266,3379,3609"
+                    }
+                },
+                {
                     "source": "C:\\Users\\MinerOnDemand\\.gradle\\caches\\transforms-3\\fa3659a04c6e45d556b5f8662112b28b\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
@@ -52,31 +71,12 @@
                         "endOffsets": "200"
                     },
                     "to": {
-                        "startLines": "56",
+                        "startLines": "58",
                         "startColumns": "4",
-                        "startOffsets": "3497",
-                        "endLines": "58",
+                        "startOffsets": "3614",
+                        "endLines": "60",
                         "endColumns": "12",
-                        "endOffsets": "3642"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\MinerOnDemand\\.gradle\\caches\\transforms-3\\fc52c7cef6228188890288cdbe418e3e\\transformed\\material-1.2.1\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,6",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,320",
-                        "endLines": "5,9",
-                        "endColumns": "10,10",
-                        "endOffsets": "315,588"
-                    },
-                    "to": {
-                        "startLines": "59,63",
-                        "startColumns": "4,4",
-                        "startOffsets": "3647,3912",
-                        "endLines": "62,66",
-                        "endColumns": "10,10",
-                        "endOffsets": "3907,4180"
+                        "endOffsets": "3759"
                     }
                 }
             ]
